@@ -10,6 +10,7 @@ Instagram crawler capable of asynchronously download media (images/videos) files
   2. Use the .json data instagram stores under /media/ and iterate its content (**instagramCrawler2.py**)
 
 Here are some other ways I haven't had the time to implement:
+
 1. use a testing framework such as selenium to open a browser and iterate through the dynamically generated content.
 2. Use a headless browser to load dynamically generated contents.
 
